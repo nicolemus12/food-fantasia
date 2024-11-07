@@ -1,0 +1,55 @@
+body {
+    background-image: url('../images/IMG_5167.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+
+    font-family: "Niconne", cursive;
+    font-weight: 500;
+    font-style: normal;
+    color: brown;
+    border-style: double;
+
+}
+
+#mainImg, .mainPara {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mealMonth {
+    text-align: center;
+}
+
+main {
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 40%;
+    float: left;
+    border-style:groove;
+    padding: 1.5%;
+
+}
+
+div  {
+    width: 30%;
+    margin-left: 62%;
+    padding: 3%;
+    border-style: dotted;
+    position:absolute
+}
+
+.mainPara {
+    color: rgb(173, 23, 173)
+
+
+}
+
+.font {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs;
+
+}
